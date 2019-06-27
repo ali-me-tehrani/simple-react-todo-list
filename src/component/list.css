@@ -1,0 +1,14 @@
+li{
+    list-style: none;
+    margin:9px;
+    box-shadow: 0 0 7px 0 rgba(0,0,0,0.14);
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 12px;
+}
+ul{
+    margin: auto;
+    box-shadow: inset 0 0 7px 0 #0003;
+    padding: 12px;
+    border-radius: 9px;
+}
